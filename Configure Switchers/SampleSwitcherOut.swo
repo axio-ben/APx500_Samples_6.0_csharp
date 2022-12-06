@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<!--Audio Precision APx500 Switcher Output File-->
+<!--Saved 1/15/2008 12:57:18 PM from "Audio Precision APx500" version 2.1.493.23759-->
+<Switcher Version="1">
+ <SwitcherEnvelope>
+  <SwitchersArray Name="SwitchersArray">
+   <SwitcherSettings Name="_0">
+    <ChA>Ch1</ChA>
+    <ChB>Ch2</ChB>
+   </SwitcherSettings>
+   <SwitcherSettings Name="_1">
+    <ChA>Ch1</ChA>
+    <ChB>Ch2</ChB>
+   </SwitcherSettings>
+   <SwitcherSettings Name="_2">
+    <ChA>Ch3</ChA>
+    <ChB>Ch4</ChB>
+   </SwitcherSettings>
+   <SwitcherSettings Name="_3">
+    <ChA>Ch1</ChA>
+    <ChB>AllButChA</ChB>
+   </SwitcherSettings>
+   <SwitcherSettings Name="_4">
+    <ChA>None</ChA>
+    <ChB>None</ChB>
+   </SwitcherSettings>
+   <SwitcherSettings Name="_5">
+    <ChA>None</ChA>
+    <ChB>None</ChB>
+   </SwitcherSettings>
+   <SwitcherSettings Name="_6">
+    <ChA>None</ChA>
+    <ChB>None</ChB>
+   </SwitcherSettings>
+   <SwitcherSettings Name="_7">
+    <ChA>None</ChA>
+    <ChB>None</ChB>
+   </SwitcherSettings>
+   <SwitcherSettings Name="_8">
+    <ChA>None</ChA>
+    <ChB>None</ChB>
+   </SwitcherSettings>
+   <SwitcherSettings Name="_9">
+    <ChA>None</ChA>
+    <ChB>None</ChB>
+   </SwitcherSettings>
+   <SwitcherSettings Name="_10">
+    <ChA>None</ChA>
+    <ChB>None</ChB>
+   </SwitcherSettings>
+   <SwitcherSettings Name="_11">
+    <ChA>None</ChA>
+    <ChB>None</ChB>
+   </SwitcherSettings>
+   <SwitcherSettings Name="_12">
+    <ChA>None</ChA>
+    <ChB>None</ChB>
+   </SwitcherSettings>
+   <SwitcherSettings Name="_13">
+    <ChA>None</ChA>
+    <ChB>None</ChB>
+   </SwitcherSettings>
+   <SwitcherSettings Name="_14">
+    <ChA>None</ChA>
+    <ChB>None</ChB>
+   </SwitcherSettings>
+   <SwitcherSettings Name="_15">
+    <ChA>None</ChA>
+    <ChB>None</ChB>
+   </SwitcherSettings>
+  </SwitchersArray>
+ </SwitcherEnvelope>
+ <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+  <SignedInfo>
+   <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+   <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+   <Reference URI="">
+    <Transforms>
+     <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+    </Transforms>
+    <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+    <DigestValue>Ffgfm0okVPzNiodcbLEj8Csy6s8=</DigestValue>
+   </Reference>
+  </SignedInfo>
+  <SignatureValue>ZQvoUOtkYIYmhh8K3qrzIPQBw00o/MtIJHU0JFDIraLHeko+Bcwj/mNBAIHw5unl</SignatureValue>
+  <KeyInfo>
+   <KeyValue>
+    <RSAKeyValue>
+     <Modulus>tjMlsV88RPE2TT364Ik9gq1fHOg1bAFthGzT7lCN/tGt1BLPlMo6FPSnrJAE1rwJ</Modulus>
+     <Exponent>AQAB</Exponent>
+    </RSAKeyValue>
+   </KeyValue>
+  </KeyInfo>
+ </Signature>
+</Switcher>
